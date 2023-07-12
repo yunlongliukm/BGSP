@@ -35,7 +35,7 @@ The gene annotation was performed using a combination of ab initio prediction, h
 4. RNA-Seq based gene prediction
 5. Functional annotation
 
-## Comparative Genome Analysis
+## Comparative Analysis
 
 The comparative genome analysis was performed using various bioinformatics tools. The specific steps include:
 
