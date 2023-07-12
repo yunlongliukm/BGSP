@@ -10,14 +10,14 @@ The materials used in this project include:
 - Sequencing machines
 - Bioinformatics software tools
 
-## Sequencing Methods
+## Sequencing
 
 The sequencing of the bamboo genomes was performed using Next-Generation Sequencing (NGS) technologies. The specific methods used include:
 
 - Whole Genome Sequencing (WGS)
 - RNA Sequencing (RNA-Seq)
 
-## Genome Assembly
+## Assembly
 
 The genome assembly was performed using various bioinformatics tools. The general steps include:
 
@@ -25,7 +25,7 @@ The genome assembly was performed using various bioinformatics tools. The genera
 2. De novo assembly
 3. Scaffolding and gap filling
 
-## Gene Annotation
+## Annotation
 
 The gene annotation was performed using a combination of ab initio prediction, homology-based prediction, and RNA-Seq data. The specific steps include:
 
