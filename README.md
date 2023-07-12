@@ -25,7 +25,7 @@ The genome assembly was performed using various bioinformatics tools. The genera
 2. De novo assembly
 3. Scaffolding and gap filling
 
-## Gene Annotation Methods
+## Gene Annotation
 
 The gene annotation was performed using a combination of ab initio prediction, homology-based prediction, and RNA-Seq data. The specific steps include:
 
