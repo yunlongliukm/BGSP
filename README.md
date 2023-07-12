@@ -1,4 +1,4 @@
-# 11 Bamboo Genome Sequencing Project
+# Bamboo Genome Sequencing Project
 
 This project is focused on the sequencing of 11 bamboo genomes. The following sections provide a detailed overview of the project.
 
