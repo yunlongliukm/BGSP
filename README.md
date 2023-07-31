@@ -11,9 +11,9 @@ This repository contains workflows and scripts used for the identification and c
 
 ## 2. Reconstruction of single "perfect-copy" gene matrix and concatenated supermatrix for each syntenic block
 
-   - Input files: `sp.perfect-copy_gene.cds.fa`
-   - Script: `gene_matrix_buliding.pl`
-   - Usage: `perl gene_matrix_buliding.pl`
+   - Input files: `cds.fasta`, `pep.fasta`, `gene#.id`
+   - Script: `2.syntenic_gene_matrix.nf`
+   - Usage: `nextflow 2.syntenic_gene_matrix.nf`
 
 ## 3. Time tree estimation
 
