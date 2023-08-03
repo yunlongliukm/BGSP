@@ -12,7 +12,7 @@ This repository contains workflows and scripts used for the identification and c
 
 ## Reconstruction of "perfect-copy" syntenic gene data set
    - Dependencies: [JCVI v1.1.17](https://github.com/tanghaibao/jcvi)
-   - Input files: `sp.cds`, `sp.bed`, `sp`
+   - Input files: `sp.cds`, `sp.bed`, `sp`:SpeciesID
    - Script: `Perfect-copy_syntenic_gene_identification.sh`
    - Usage: `bash Perfect-copy_syntenic_gene_identification.sh Alu 2 1`
 ```bash
