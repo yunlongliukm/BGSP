@@ -2,6 +2,9 @@
 
 Bamboo Genome Sequencing Project is focused on the sequencing of 11 bamboo genomes. 
 This repository contains workflows and scripts used for the identification and comparative analysis of bamboo subgenomes.
+## Citation
+
+Diversification induced by dynamic subgenome dominance in bamboos, the world's largest grasses (under review)
 
 ## Reconstruction of "perfect-copy" syntenic gene data set
    - Dependencies: [JCVI v1.1.17](https://github.com/tanghaibao/jcvi)
