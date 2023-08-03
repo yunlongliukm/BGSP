@@ -1,2 +1,0 @@
-### New genes identification
-We dated genes of 11 bamboo genomes along the phylogenetic tree with the same 65 outgroups following the pipeline in Jin et al.(107). Briefly, OrthoFinder v2.5.272 was used to cluster gene families, and we classified genes into different age groups with theoldest gene representing the age of the gene. Reference to script 3.
