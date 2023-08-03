@@ -4,10 +4,11 @@ Bamboo Genome Sequencing Project is focused on the sequencing of 11 bamboo genom
 This repository contains workflows and scripts used for the identification and comparative analysis of bamboo subgenomes.
 
 
-## Citation
+# Citation
 
 **Diversification induced by dynamic subgenome dominance in bamboos, the world's largest grasses** (under review)
 
+# Getting Started
 
 ## Reconstruction of "perfect-copy" syntenic gene data set
    - Dependencies: [JCVI v1.1.17](https://github.com/tanghaibao/jcvi)
@@ -118,11 +119,11 @@ The P value was determined by a Chi-square test with a cutoff of <0.05 for posit
 ## New genes identification
 - Dependencies: [OrthoFinder v2.5.272](https://github.com/davidemms/OrthoFinder)
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
  `bash new_gene.sh`
 
 OrthoFinder was used to cluster gene families, and we classified genes into different age groups with the oldest gene representing the age of the gene
+
+# License
+
+This project is licensed under the [MIT License](./LICENSE).
 
