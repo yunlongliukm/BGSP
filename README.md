@@ -111,5 +111,8 @@ The P value was determined by a Chi-square test with a cutoff of <0.05 for posit
 
 ## New genes identification
 - Dependencies: [OrthoFinder v2.5.272](https://github.com/davidemms/OrthoFinder)
+
+ `bash new_gene.sh`
+
 OrthoFinder was used to cluster gene families, and we classified genes into different age groups with the oldest gene representing the age of the gene
-`bash new_gene.sh`
+
