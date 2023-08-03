@@ -6,7 +6,7 @@ This repository contains workflows and scripts used for the identification and c
 
 # Citation
 
-**Diversification induced by dynamic subgenome dominance in bamboos, the world's largest grasses** (under review)
+- **Diversification induced by dynamic subgenome dominance in bamboos, the world's largest grasses** (under review)
 
 # Getting Started
 
