@@ -38,7 +38,7 @@ This repository contains workflows and scripts used for the identification and c
 - Normalization of relative expression levels of the A, B, and C subgenomes
 
 ```bash
-awk '{if(($2+$3+$4) >=0.5)print $1, $2/($2+$3+$4), $3/($2+$3+$4), $4/($2+$3+$4)}' >TPM_logTPM_normolized.txt
+awk '{if(($2+$3+$4) >=0.5)print $1, $2/($2+$3+$4), $3/($2+$3+$4), $4/($2+$3+$4)}' ABC_111_TPM.csv >TPM_logTPM_normolized.txt
 ```
 
 - Definition of homoeologous expression bias categories for Normalization of relative expression (with M. baccifera as example).
@@ -49,7 +49,7 @@ dist=as.matrix(dist(data[,1:3],method = "euclidean"))[,1:7]
 write.table(t(dist),file="dist", quote=F)
 ```
 ```bash
-for i in {9..3518};do awk '{print $"'${i}'", $1}' dist  |sort -n |head -1 ;done > dist_category
+for i in {9..3518};do awk '{print $"'${i}'", $1}' dist  |sort -n |head -1 ;done > dist_category.csv
 ```
 
 - Plot the ternary diagrams using the R package ggtern
