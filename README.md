@@ -1,9 +1,7 @@
 # Bamboo Genome Sequencing Project
 
 Bamboo Genome Sequencing Project (BGSP) is focused on the sequencing of 11 bamboo genomes. 
-This repository contains workflows and scripts used for the identification and comparative analysis of bamboo subgenomes.
-
-In development
+This repository is currently being developed and houses workflows and scripts that are utilized for the identification and comparative analysis of bamboo subgenomes.
 
 
 # Citation
