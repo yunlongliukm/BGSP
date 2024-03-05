@@ -6,7 +6,7 @@ This repository is currently being developed and houses workflows and scripts th
 
 # Citation
 
-- **Diversification induced by dynamic subgenome dominance in bamboos, the world's largest grasses** (under review)
+- **Genome assemblies of 11 bamboo species highlight diversification induced by dynamic subgenome dominance** Nature Genetics (accepted for publication)
 
 # Getting Started
 
