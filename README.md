@@ -6,7 +6,7 @@ This repository is currently being developed and houses workflows and scripts th
 
 # Citation
 
-- **Genome assemblies of 11 bamboo species highlight diversification induced by dynamic subgenome dominance** Nature Genetics (accepted for publication)
+- Peng-Fei Ma, Yun-Long Liu, Cen Guo, Guihua Jin, Zhen-Hua Guo, Ling Mao, Yi-Zhou Yang, Liang-Zhong Niu, Yu-Jiao Wang, Lynn G. Clark, Elizabeth A. Kellogg, Zu-Chang Xu, Xia-Ying Ye, Jing-Xia Liu, Meng-Yuan Zhou, Yan Luo, Yang Yang, Douglas E. Soltis, Jeffrey L. Bennetzen, Pamela S. Soltis, De-Zhu Li. (2024). **Genome assemblies of 11 bamboo species highlight diversification induced by dynamic subgenome dominance.** Nature Genetics (accepted for publication)
 
 # Getting Started
 
