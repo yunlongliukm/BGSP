@@ -6,7 +6,8 @@ This repository is currently being developed and houses workflows and scripts th
 
 # Citation
 
-- Peng-Fei Ma, Yun-Long Liu, Cen Guo, Guihua Jin, Zhen-Hua Guo, Ling Mao, Yi-Zhou Yang, Liang-Zhong Niu, Yu-Jiao Wang, Lynn G. Clark, Elizabeth A. Kellogg, Zu-Chang Xu, Xia-Ying Ye, Jing-Xia Liu, Meng-Yuan Zhou, Yan Luo, Yang Yang, Douglas E. Soltis, Jeffrey L. Bennetzen, Pamela S. Soltis, De-Zhu Li. (2024). **Genome assemblies of 11 bamboo species highlight diversification induced by dynamic subgenome dominance**. Nature Genetics. 10.1038/s41588-024-01683-0
+- Peng-Fei Ma, Yun-Long Liu, Cen Guo, Guihua Jin, Zhen-Hua Guo, Ling Mao, Yi-Zhou Yang, Liang-Zhong Niu, Yu-Jiao Wang, Lynn G. Clark, Elizabeth A. Kellogg, Zu-Chang Xu, Xia-Ying Ye, Jing-Xia Liu, Meng-Yuan Zhou, Yan Luo, Yang Yang, Douglas E. Soltis, Jeffrey L. Bennetzen, Pamela S. Soltis, De-Zhu Li. (2024). **Genome assemblies of 11 bamboo species highlight diversification induced by dynamic subgenome dominance**. Nature Genetics. [10.1038/s41588-024-01683-0](https://doi.org/10.1038/s41588-024-01683-0)
+- Yun-Long Liu, Shu-Yang Gao, Guihua Jin, Meng-yuan Zhou, Qijuan Gao, Cen Guo, Yi-Zhou Yang, Liang-Zhong Niu, Enhua Xia, Zhen-Hua Guo, Peng-Fei Ma, De-Zhu Li. **BambooBase：A comprehensive database of bamboo omics and systematics**. Molecular Plant. [10.1016/j.molp.2024.02.017](https://doi.org/10.1016/j.molp.2024.02.017).
 
 # Getting Started
 
